@@ -6,13 +6,13 @@
 
 ##
 
-Made Under - [@Anime_X_Hunters](https://t.me/Anime_X_Hunters).
+Made Under - [@WhiteBeard_Sama](https://t.me/WhiteBeard_Sama).
 
 
 
 ### Features
 - Fully customisable.
-- Two Force Sub Channels added By - [SAHIL](https://t.me/Okabe_xRintarou)
+- Two Force Sub Channels added By - [WhiteBeard](https://t.me/WhiteBeard_Sama)
 - Customisable welcome & Forcesub messages.
 - Customisable Pics
 - Shortener feature added
