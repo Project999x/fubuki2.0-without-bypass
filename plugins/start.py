@@ -158,7 +158,7 @@ async def short_url(client: Client, message: Message, base64_string):
         buttons = [
             [
                 InlineKeyboardButton(text="• ᴏᴘᴇɴ ʟɪɴᴋ", url=short_link),
-                InlineKeyboardButton(text="ᴛᴜᴛᴏʀɪᴀʟ •", url="https://t.me/+ZLu08PF-JUIzMjFl")
+                InlineKeyboardButton(text="ᴛᴜᴛᴏʀɪᴀʟ •", url="https://t.me/+U0VrY0xSdh5iOTA9")
             ],
             [
                 InlineKeyboardButton(text="• ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", callback_data="premium")
